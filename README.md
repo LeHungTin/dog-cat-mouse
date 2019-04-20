@@ -1,0 +1,1 @@
+Day la ban luu dau tien cua toi tren git su dung ubuntu.
